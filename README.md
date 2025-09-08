@@ -44,3 +44,4 @@ Open the index.html file in your browser.
 (Add a screenshot of your portfolio here if possible)
 
 🌐 Live Demo
+https://tejas-ux257.github.io/Tejas-kumar-d-portfolio.github.io/
